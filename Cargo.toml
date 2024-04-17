@@ -43,7 +43,7 @@ nucleo = "0.2.0"
 [workspace.package]
 version = "24.3.0"
 edition = "2021"
-authors = ["Blaž Hrastnik <blaz@mxxn.io>"]
+authors = ["Blaž Hrastnik (Pached) <blaz@mxxn.io>"]
 categories = ["editor"]
 repository = "https://github.com/helix-editor/helix"
 homepage = "https://helix-editor.com"
