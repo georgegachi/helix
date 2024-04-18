@@ -29,6 +29,7 @@ pub use popup::Popup;
 pub use prompt::{Prompt, PromptEvent};
 pub use spinner::{ProgressSpinners, Spinner};
 pub use text::Text;
+pub use tree::{TreeOp, TreeView, TreeViewItem};
 
 use helix_view::Editor;
 
